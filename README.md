@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Hi, I'm Dhruvi Zadane
 
-<!--
-**dhruvizadane01-blip/dhruvizadane01-blip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Engineering student passionate about:
+- ☁️ Cloud technologies & IAM (Identity and Access Management)
+- 📊 Data analysis, dashboard UX, and backend integration
+- 🐍 Python, C++, and Java programming
+- 🧠 Hands-on learning through labs, coding challenges & FreeCodeCamp
 
-Here are some ideas to get you started:
+🔗 Currently building my skills through:
+- [FreeCodeCamp Profile](https://www.freecodecamp.org/dhruvizadane01)
+- [ORCID iD](https://orcid.org/0009-0002-9652-6308)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📌 I'm refining my GitHub and ORCID profiles to build a credible identity for research and collaboration. Stay tuned for more projects and certifications!
